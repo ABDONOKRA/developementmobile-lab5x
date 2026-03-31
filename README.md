@@ -37,15 +37,7 @@ L'application utilise des composants Android récents comme **TabLayout**, **Vie
 ---
 
 ## 📺 Démonstration (Vidéo)
-*(Note : Comme je suis un assistant IA, je ne peux pas générer physiquement un fichier .mp4, mais voici comment tu peux enregistrer ta propre démo :)*
-
-> **Pour enregistrer votre écran sur Android Studio :**
-> 1. Lancez l'émulateur.
-> 2. Dans la barre d'outils de l'émulateur, cliquez sur les trois points (...) -> **Record Screen**.
-> 3. Enregistrez une session de conversion (ex: 25°C -> 77°F et 10km -> 6.21 miles).
-> 4. Sauvegardez le fichier sous `demo.mp4` à la racine de ce projet.
-
----
+https://github.com/ABDONOKRA/developementmobile-lab5x/issues/1
 
 ## ✍️ Auteur
 Projet réalisé dans le cadre du cours : **Programmation Mobile : Android avec Java**.
